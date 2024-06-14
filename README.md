@@ -27,5 +27,6 @@ Here's a glimpse of the languages and tools I'm proficient in or currently learn
 Don't hesitate to reach out to me for any inquiries or simply to connect ! Looking forward to hearing from you!
 
 ### Connect with me:
-[![LinkedIn](linkedin-icon.png)](https://www.linkedin.com/in/aminahocine/) [![Gmail](gmail-icon.png)](mailto:aminaahocine@gmail.com)
+<a href="https://www.linkedin.com/in/aminahocine/"><img src="images/linkedin-icon.png" width="30"></a> <a href="mailto:aminaahocine@gmail.com"><img src="images/gmail-icon.png" width="30"></a>
+
 
