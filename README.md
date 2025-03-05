@@ -1,6 +1,6 @@
 # 👋  Hello, I'm Amina!
 
-🎓 I hold a bachelor's degree in Bioinformatics, with a keen interest in statistics, data science, and machine learning.
+🎓 Currently pursuing a Master’s degree in Data Analytics, with a background in Bioinformatics and a strong interest in statistics, data science, and machine learning.
 
 💻 Passionate about leveraging data analysis and machine learning techniques to derive meaningful insights. Currently seeking to enhance my skills in advanced machine learning and data science methodologies.
 
